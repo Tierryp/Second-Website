@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+
+
+main {
+    margin-top: 55px;
+}
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+/* 
+@media (min-width:678px) {
+body {
+background-color: aqua;
+
+
+
+}
+
+}
+
+
+@media (min-width:900px) {
+    body {
+        background-color: red;
+
+
+
+    }
+
+} */
